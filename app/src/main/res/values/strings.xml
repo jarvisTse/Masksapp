@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Masksapp</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Password Confirmation</string>
+    <string name="not_register">No account yet? Create one</string>
+    <string name="already_register">Already register? Login</string>
+
+    <string name="search_num">Searching Result: 0</string>
+    <string name="search_hint">Search for the masks</string>
+    <string name="search_blog_hint">Search for the blogs</string>
+    <string name="search_exchange_hint">Search for the posts</string>
+    <string name="search">Search</string>
+    <string name="sort">SORT</string>
+    <string name="filter">FILTER</string>
+    <string name="blog">Blog</string>
+    <string name="create">Create</string>
+    <string name="home">Home</string>
+    <string name="exchange">Exchange</string>
+    <string name="account">Account</string>
+
+    <string name="type_m_name">Mask Name</string>
+    <string name="type_m_brand">Brand</string>
+    <string name="type_m_made_in">Made In (e.g. Japan)</string>
+    <string name="type_m_size">Quantity (e.g. 50 pieces)</string>
+    <string name="type_m_price">List Price (HKD)</string>
+    <string name="type_m_description">Description</string>
+
+    <string name="rateComment">Rate &amp; Comment</string>
+    <string name="provideIntelligence">Provide Intelligence</string>
+    <string name="viewComment">View Comments and Intelligence</string>
+    <string name="moreDetail">More Details</string>
+
+
+    <string name="emptyUsername">Please fill in username.</string>
+    <string name="emptyEmail">Please fill in email.</string>
+    <string name="emptyPassord">Please fill in password.</string>
+    <string name="emptyPasswordConfirm">Please fill in password confirm.</string>
+    <string name="unMatchPassword">The password is inconsistent.</string>
+    <string name="emailBad">The email address is badly formatted.</string>
+    <string name="emailNoUser">No such registered email is found.</string>
+    <string name="emailUsed">The email address is already in use.</string>
+    <string name="passwordWrong">The password is invalid.</string>
+
+    <string name="loginFirst">Please login first.</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="comment">Comment:</string>
+    <string name="commentHere">Write your comment here.</string>
+    <string name="displayComments">Comments</string>
+    <string name="displayIntelligences">Intelligences</string>
+
+    <string name="uploadIcon">Upload Icon</string>
+    <string name="editEmail">Edit Email</string>
+    <string name="editName">Edit Username</string>
+    <string name="sellPrice">Selling Price:</string>
+    <string name="location">Location:</string>
+    <string name="writeLocation">Write your purchase location here.</string>
+    <string name="priceHKD">in HKD</string>
+    <string name="noRecord">Do not have any records yet.</string>
+
+    <string name="sortBy">Sort By</string>
+    <string name="sortByNone">None</string>
+    <string name="sortByName">Name</string>
+    <string name="sortByComment">Number of Comments</string>
+    <string name="sortByRate">Rating</string>
+    <string name="sortByPrice">Suggesting Price</string>
+
+    <string name="upload">Upload</string>
+    <string name="uploadImage">Upload Image</string>
+    <string name="choose">Choose</string>
+    <string name="createMaskInfo">Create Mask Info</string>
+    <string name="createBlog">Create Blog</string>
+    <string name="createExchange">Create Exchange</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="mostRecent">Most Recent</string>
+    <string name="filterBy">Filter</string>
+    <string name="filter_price">Less than HK$100</string>
+    <string name="filter_bfe">BFE > 95%</string>
+    <string name="filter_pfe">PFE > 95%</string>
+    <string name="filter_vfe">VFE > 95%</string>
+
+    <string name="detail_brand">Brand: </string>
+    <string name="detail_madeIn">Made In: </string>
+    <string name="detail_quatity">Quatity: </string>
+    <string name="detail_fe">Filtration Efficiency:</string>
+    <string name="detail_special">Special Standard:</string>
+    <string name="detail_decription">Description: </string>
+    <string name="detail_maskid">Mask ID: </string>
+    <string name="detail_contact">Contact: </string>
+    <string name="tips_fe">Filtration Efficiency</string>
+    <string name="tips_special">Special Standard</string>
+    <string name="tips_maskid">Mask ID</string>
+
+    <string name="tips_detail_fe">Bacterial Filtration Efficiency (BFE)\nIt is a measurement of a respirator material resistance to penetration of bacteria.\nIf over 95%, it can filter droplets, pollen, dust and other air particulates.\n\nParticle Filtration Efficiency (PFE)\nIf this value is high, ideal for procedures where moderate to light amounts of fluid, spray and/or aerosols are produced.\n\nVirus Filtration Efficiency (VFE)\nIndicated for use when treating patients with airborne diseases such as TB or influenza.</string>
+    <string name="tips_detail_special">KF-80 (Koren standard):\neffectively block about 80% of particles from the air, 0.6 microns in size, can only protect against dust and air pollution particles, cannot block the source of infection.\n\nKF-94 (Koren standard):\nEffectively block about 94% of fine particles and infection sources from the air, 0.4 microns or less in size\n\nASTM Level (US standard):\nMost masks manufactured in the United States will follow this test standard. The protective strength of masks is divided into Level 1 to 3, with Level 1 being the lowest and Level 3 being the highest, whiile BFE and PFE are also tested. What makes the ASTM test standard different is the additional 3 criteria: Fluid Resistance to Synthetic Blood, Delta P (Pressure Differential), and Flame Spread.</string>
+    <string name="tips_detail_maskid">If you want to use our exchange platform to sell this mask product, please copy this mask ID before you create your selling post.\n\nThen, it will create a link in your selling post which allow the users redirect to this mask detail page to view more information.</string>
+
+    <string name="currEmail">Current Email</string>
+    <string name="newEmail">New Email</string>
+    <string name="doubleConfirmEmail">This operation is sensitive and requires recent authentication.</string>
+
+    <string name="contact">Contact</string>
+    <string name="hasInfo">Do this app has your mask info?</string>
+    <string name="remainder">Disclaimer:\nThis app just provides a platform for everyone to trade, and will not be held responsible for the transaction.\nConsumers, please be vigilant and beware of online fraud.</string>
+    <string name="viewMaskDetail">View this mask detail info</string>
+    <string name="sold_out">Sold Out</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="quit">Quit</string>
+    <string name="sureQuit">Are you sure to quit app?</string>
+
+    <string name="copy">Copy</string>
+</resources>

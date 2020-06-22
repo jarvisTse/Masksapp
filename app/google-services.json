@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598318553209",
+    "firebase_url": "https://masksapp-cb9fb.firebaseio.com",
+    "project_id": "masksapp-cb9fb",
+    "storage_bucket": "masksapp-cb9fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598318553209:android:60732b13f9ad152e565ca8",
+        "android_client_info": {
+          "package_name": "com.example.masksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598318553209-3esgrhvbhific7nru7lpgub9m0s39t1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masksapp",
+            "certificate_hash": "38197513ec557ba3a2d552f58c1712d52b5d742e"
+          }
+        },
+        {
+          "client_id": "598318553209-o7h5uokve06aomq8s4d35ok9f6qt9p8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVV1muS32kwtVm0UTqW4RWbiQ4gla_Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598318553209-o7h5uokve06aomq8s4d35ok9f6qt9p8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
